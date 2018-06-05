@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyCloudData", "EasyCloudData\EasyCloudData.csproj", "{BA70A32E-1F2D-4D52-BB5D-7941ABDF43F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA70A32E-1F2D-4D52-BB5D-7941ABDF43F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA70A32E-1F2D-4D52-BB5D-7941ABDF43F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA70A32E-1F2D-4D52-BB5D-7941ABDF43F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA70A32E-1F2D-4D52-BB5D-7941ABDF43F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85229308-90CB-4C84-849A-17611526F6CE}
+	EndGlobalSection
+EndGlobal
